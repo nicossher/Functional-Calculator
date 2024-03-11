@@ -1,6 +1,6 @@
 # Fully Functional Calculator with Semantic Routines and Dictionary Handling.
 
-This project aims to provide the final closure to the previous assignments, culminating in a fully functional calculator. Semantic routines and dictionary handling have been added to address semantic and syntactic error recognition.
+This project aims to create a fully functional calculator with semantic routines and dictionary handling recognition. It utilizes Flex to recognize a language with tokens such as Identifier, Integer, and Hexadecimal, as well as error tokens for general errors, malformed integers, and end-of-file conditions. Additionally, Bison is used to implement syntax grammar and a symbol table
 
 ### Features:
 
